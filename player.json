@@ -1,0 +1,5660 @@
+{
+    "player": {
+        "あいかわ": {
+            "name": "あいかわ",
+            "p_type": "06a",
+            "from": "長崎",
+            "position": "DF",
+            "annual_salary": 1800
+        },
+        "アマディオ": {
+            "name": "アマディオ",
+            "p_type": "06a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2800
+        },
+        "うちのくら": {
+            "name": "うちのくら",
+            "p_type": "06a",
+            "from": "鹿児島",
+            "position": "MF",
+            "annual_salary": 1500
+        },
+        "エドゥアルド": {
+            "name": "エドゥアルド",
+            "p_type": "06a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "えんどう": {
+            "name": "えんどう",
+            "p_type": "06a",
+            "from": "神奈川",
+            "position": "GK",
+            "annual_salary": 1800
+        },
+        "おがた": {
+            "name": "おがた",
+            "p_type": "06a",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 2100
+        },
+        "おさない": {
+            "name": "おさない",
+            "p_type": "06a",
+            "from": "青森",
+            "position": "DF",
+            "annual_salary": 2300
+        },
+        "おしきり": {
+            "name": "おしきり",
+            "p_type": "06a",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "かいづか": {
+            "name": "かいづか",
+            "p_type": "06a",
+            "from": "茨城",
+            "position": "FW",
+            "annual_salary": 950
+        },
+        "かいどう": {
+            "name": "かいどう",
+            "p_type": "06a",
+            "from": "福井",
+            "position": "DF",
+            "annual_salary": 4900
+        },
+        "かみおか": {
+            "name": "かみおか",
+            "p_type": "06a",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "かわうち": {
+            "name": "かわうち",
+            "p_type": "06a",
+            "from": "長崎",
+            "position": "DF",
+            "annual_salary": 4200
+        },
+        "かわかみ": {
+            "name": "かわかみ",
+            "p_type": "06a",
+            "from": "島根",
+            "position": "MF",
+            "annual_salary": 3700
+        },
+        "かんの": {
+            "name": "かんの",
+            "p_type": "06a",
+            "from": "北海道",
+            "position": "FW",
+            "annual_salary": 1800
+        },
+        "きとう": {
+            "name": "きとう",
+            "p_type": "06a",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "きょうの": {
+            "name": "きょうの",
+            "p_type": "06a",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "きりやま": {
+            "name": "きりやま",
+            "p_type": "06a",
+            "from": "岐阜",
+            "position": "GK",
+            "annual_salary": 5100
+        },
+        "くすのせ": {
+            "name": "くすのせ",
+            "p_type": "06a",
+            "from": "高知",
+            "position": "MF",
+            "annual_salary": 1500
+        },
+        "けんじょう": {
+            "name": "けんじょう",
+            "p_type": "06a",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "サウリン": {
+            "name": "サウリン",
+            "p_type": "06a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "ザビエル": {
+            "name": "ザビエル",
+            "p_type": "06a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1700
+        },
+        "さよ": {
+            "name": "さよ",
+            "p_type": "06a",
+            "from": "福井",
+            "position": "FW",
+            "annual_salary": 2200
+        },
+        "しま": {
+            "name": "しま",
+            "p_type": "06a",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 900
+        },
+        "ジョンソン": {
+            "name": "ジョンソン",
+            "p_type": "06a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 7000
+        },
+        "たかしま": {
+            "name": "たかしま",
+            "p_type": "06a",
+            "from": "秋田",
+            "position": "GK",
+            "annual_salary": 1600
+        },
+        "たけのうち": {
+            "name": "たけのうち",
+            "p_type": "06a",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "ちょうそかべ": {
+            "name": "ちょうそかべ",
+            "p_type": "06a",
+            "from": "愛媛",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "つつみ": {
+            "name": "つつみ",
+            "p_type": "06a",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 8000
+        },
+        "トーマス": {
+            "name": "トーマス",
+            "p_type": "06a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "とみた": {
+            "name": "とみた",
+            "p_type": "06a",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 650
+        },
+        "はいだ": {
+            "name": "はいだ",
+            "p_type": "06a",
+            "from": "石川",
+            "position": "DF",
+            "annual_salary": 4000
+        },
+        "はやさか": {
+            "name": "はやさか",
+            "p_type": "06a",
+            "from": "宮城",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "はりがね": {
+            "name": "はりがね",
+            "p_type": "06a",
+            "from": "北海道",
+            "position": "GK",
+            "annual_salary": 1700
+        },
+        "フラスコ": {
+            "name": "フラスコ",
+            "p_type": "06a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 16000
+        },
+        "マーティン": {
+            "name": "マーティン",
+            "p_type": "06a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 8000
+        },
+        "マーレー": {
+            "name": "マーレー",
+            "p_type": "06a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 7500
+        },
+        "まつおか": {
+            "name": "まつおか",
+            "p_type": "06a",
+            "from": "大分",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "まつの": {
+            "name": "まつの",
+            "p_type": "06a",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "みうら": {
+            "name": "みうら",
+            "p_type": "06a",
+            "from": "広島",
+            "position": "MF",
+            "annual_salary": 750
+        },
+        "みどりかわ": {
+            "name": "みどりかわ",
+            "p_type": "06a",
+            "from": "長野",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "ムーア": {
+            "name": "ムーア",
+            "p_type": "06a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3200
+        },
+        "むろふし": {
+            "name": "むろふし",
+            "p_type": "06a",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "もろぼし": {
+            "name": "もろぼし",
+            "p_type": "06a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 2500
+        },
+        "ゆあさ": {
+            "name": "ゆあさ",
+            "p_type": "06a",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "りきまる": {
+            "name": "りきまる",
+            "p_type": "06a",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "ルケ": {
+            "name": "ルケ",
+            "p_type": "06a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1200
+        },
+        "レドナップ": {
+            "name": "レドナップ",
+            "p_type": "06a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 4900
+        },
+        "ロマノ": {
+            "name": "ロマノ",
+            "p_type": "06a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1200
+        },
+        "あきやま": {
+            "name": "あきやま",
+            "p_type": "06b",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "アリサ": {
+            "name": "アリサ",
+            "p_type": "06b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 12000
+        },
+        "いくた": {
+            "name": "いくた",
+            "p_type": "06b",
+            "from": "熊本",
+            "position": "MF",
+            "annual_salary": 2300
+        },
+        "イゴール": {
+            "name": "イゴール",
+            "p_type": "06b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 8000
+        },
+        "うきつ": {
+            "name": "うきつ",
+            "p_type": "06b",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 5000
+        },
+        "えりぐち": {
+            "name": "えりぐち",
+            "p_type": "06b",
+            "from": "佐賀",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "おおわだ": {
+            "name": "おおわだ",
+            "p_type": "06b",
+            "from": "茨城",
+            "position": "FW",
+            "annual_salary": 1100
+        },
+        "カーライル": {
+            "name": "カーライル",
+            "p_type": "06b",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 5700
+        },
+        "かねまる": {
+            "name": "かねまる",
+            "p_type": "06b",
+            "from": "宮崎",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "かみぞの": {
+            "name": "かみぞの",
+            "p_type": "06b",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 6000
+        },
+        "きたはら": {
+            "name": "きたはら",
+            "p_type": "06b",
+            "from": "東京",
+            "position": "FW",
+            "annual_salary": 6500
+        },
+        "くにみつ": {
+            "name": "くにみつ",
+            "p_type": "06b",
+            "from": "山口",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "ししど": {
+            "name": "ししど",
+            "p_type": "06b",
+            "from": "福島",
+            "position": "GK",
+            "annual_salary": 500
+        },
+        "しばた": {
+            "name": "しばた",
+            "p_type": "06b",
+            "from": "静岡",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "しらとり": {
+            "name": "しらとり",
+            "p_type": "06b",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 9000
+        },
+        "たにはら": {
+            "name": "たにはら",
+            "p_type": "06b",
+            "from": "広島",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "つちだ": {
+            "name": "つちだ",
+            "p_type": "06b",
+            "from": "富山",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "なかはま": {
+            "name": "なかはま",
+            "p_type": "06b",
+            "from": "兵庫",
+            "position": "GK",
+            "annual_salary": 3700
+        },
+        "にほんやなぎ": {
+            "name": "にほんやなぎ",
+            "p_type": "06b",
+            "from": "青森",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "ひろおか": {
+            "name": "ひろおか",
+            "p_type": "06b",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "みずぐち": {
+            "name": "みずぐち",
+            "p_type": "06b",
+            "from": "愛媛",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "もりた": {
+            "name": "もりた",
+            "p_type": "06b",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "やいだ": {
+            "name": "やいだ",
+            "p_type": "06b",
+            "from": "奈良",
+            "position": "MF",
+            "annual_salary": 1500
+        },
+        "わくい": {
+            "name": "わくい",
+            "p_type": "06b",
+            "from": "新潟",
+            "position": "MF",
+            "annual_salary": 3100
+        },
+        "きよいけ": {
+            "name": "きよいけ",
+            "p_type": "07a",
+            "from": "長野",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "むこうだ": {
+            "name": "むこうだ",
+            "p_type": "07a",
+            "from": "広島",
+            "position": "GK",
+            "annual_salary": 100
+        },
+        "あおやなぎ": {
+            "name": "あおやなぎ",
+            "p_type": "07b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 1200
+        },
+        "あきよし": {
+            "name": "あきよし",
+            "p_type": "07b",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "あさみ": {
+            "name": "あさみ",
+            "p_type": "07b",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 6000
+        },
+        "あわじ": {
+            "name": "あわじ",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 350
+        },
+        "いしの": {
+            "name": "いしの",
+            "p_type": "07b",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 1600
+        },
+        "いちょう": {
+            "name": "いちょう",
+            "p_type": "07b",
+            "from": "青森",
+            "position": "GK",
+            "annual_salary": 200
+        },
+        "いぬかい": {
+            "name": "いぬかい",
+            "p_type": "07b",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "ウォーレン": {
+            "name": "ウォーレン",
+            "p_type": "07b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1600
+        },
+        "うめみや": {
+            "name": "うめみや",
+            "p_type": "07b",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "えざき": {
+            "name": "えざき",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "おいかわ": {
+            "name": "おいかわ",
+            "p_type": "07b",
+            "from": "岩手",
+            "position": "GK",
+            "annual_salary": 1000
+        },
+        "かない": {
+            "name": "かない",
+            "p_type": "07b",
+            "from": "群馬",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "きもつき": {
+            "name": "きもつき",
+            "p_type": "07b",
+            "from": "鹿児島",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "くさなぎ": {
+            "name": "くさなぎ",
+            "p_type": "07b",
+            "from": "秋田",
+            "position": "MF",
+            "annual_salary": 3100
+        },
+        "くずかわ": {
+            "name": "くずかわ",
+            "p_type": "07b",
+            "from": "愛媛",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "グリフィン": {
+            "name": "グリフィン",
+            "p_type": "07b",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 20000
+        },
+        "けみがわ": {
+            "name": "けみがわ",
+            "p_type": "07b",
+            "from": "島根",
+            "position": "DF",
+            "annual_salary": 350
+        },
+        "こてがわ": {
+            "name": "こてがわ",
+            "p_type": "07b",
+            "from": "大分",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "こやま": {
+            "name": "こやま",
+            "p_type": "07b",
+            "from": "和歌山",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "さいおんじ": {
+            "name": "さいおんじ",
+            "p_type": "07b",
+            "from": "愛媛",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "さいとう": {
+            "name": "さいとう",
+            "p_type": "07b",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "さいもん": {
+            "name": "さいもん",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "しんどう": {
+            "name": "しんどう",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "たかの": {
+            "name": "たかの",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "ちだ": {
+            "name": "ちだ",
+            "p_type": "07b",
+            "from": "秋田",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "つじ": {
+            "name": "つじ",
+            "p_type": "07b",
+            "from": "三重",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "つるた": {
+            "name": "つるた",
+            "p_type": "07b",
+            "from": "熊本",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "ななこ": {
+            "name": "ななこ",
+            "p_type": "07b",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 1700
+        },
+        "ニコルソン": {
+            "name": "ニコルソン",
+            "p_type": "07b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 8000
+        },
+        "ねこた": {
+            "name": "ねこた",
+            "p_type": "07b",
+            "from": "福岡",
+            "position": "GK",
+            "annual_salary": 700
+        },
+        "はぎもと": {
+            "name": "はぎもと",
+            "p_type": "07b",
+            "from": "東京",
+            "position": "FW",
+            "annual_salary": 1100
+        },
+        "はぎわら": {
+            "name": "はぎわら",
+            "p_type": "07b",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "はこざき": {
+            "name": "はこざき",
+            "p_type": "07b",
+            "from": "福島",
+            "position": "GK",
+            "annual_salary": 2500
+        },
+        "はしぐち": {
+            "name": "はしぐち",
+            "p_type": "07b",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "バタワース": {
+            "name": "バタワース",
+            "p_type": "07b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3100
+        },
+        "はとり": {
+            "name": "はとり",
+            "p_type": "07b",
+            "from": "群馬",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "はりま": {
+            "name": "はりま",
+            "p_type": "07b",
+            "from": "北海道",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "ひがき": {
+            "name": "ひがき",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "ひきま": {
+            "name": "ひきま",
+            "p_type": "07b",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "ひでしま": {
+            "name": "ひでしま",
+            "p_type": "07b",
+            "from": "佐賀",
+            "position": "MF",
+            "annual_salary": 150
+        },
+        "ひとみ": {
+            "name": "ひとみ",
+            "p_type": "07b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "ピローニ": {
+            "name": "ピローニ",
+            "p_type": "07b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 6000
+        },
+        "ひろた": {
+            "name": "ひろた",
+            "p_type": "07b",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 550
+        },
+        "ふじい": {
+            "name": "ふじい",
+            "p_type": "07b",
+            "from": "滋賀",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "ふじた": {
+            "name": "ふじた",
+            "p_type": "07b",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "ふしみ": {
+            "name": "ふしみ",
+            "p_type": "07b",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 800
+        },
+        "ヘイロー": {
+            "name": "ヘイロー",
+            "p_type": "07b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 8000
+        },
+        "べっしょ": {
+            "name": "べっしょ",
+            "p_type": "07b",
+            "from": "三重",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "まえだ": {
+            "name": "まえだ",
+            "p_type": "07b",
+            "from": "石川",
+            "position": "DF",
+            "annual_salary": 550
+        },
+        "ますおか": {
+            "name": "ますおか",
+            "p_type": "07b",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "マゼラン": {
+            "name": "マゼラン",
+            "p_type": "07b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3400
+        },
+        "まちだ": {
+            "name": "まちだ",
+            "p_type": "07b",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "まどか": {
+            "name": "まどか",
+            "p_type": "07b",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "まめづか": {
+            "name": "まめづか",
+            "p_type": "07b",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "まゆづき": {
+            "name": "まゆづき",
+            "p_type": "07b",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "マンフレディ": {
+            "name": "マンフレディ",
+            "p_type": "07b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3300
+        },
+        "みかみ": {
+            "name": "みかみ",
+            "p_type": "07b",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "みやがわ": {
+            "name": "みやがわ",
+            "p_type": "07b",
+            "from": "広島",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "むぐるま": {
+            "name": "むぐるま",
+            "p_type": "07b",
+            "from": "香川",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "むらまつ": {
+            "name": "むらまつ",
+            "p_type": "07b",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 1400
+        },
+        "ムルクディス": {
+            "name": "ムルクディス",
+            "p_type": "07b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1200
+        },
+        "むろまち": {
+            "name": "むろまち",
+            "p_type": "07b",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "めいけん": {
+            "name": "めいけん",
+            "p_type": "07b",
+            "from": "宮城",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "もたい": {
+            "name": "もたい",
+            "p_type": "07b",
+            "from": "長野",
+            "position": "MF",
+            "annual_salary": 4000
+        },
+        "やない": {
+            "name": "やない",
+            "p_type": "07b",
+            "from": "山口",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "やまね": {
+            "name": "やまね",
+            "p_type": "07b",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "よこい": {
+            "name": "よこい",
+            "p_type": "07b",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "よこがわ": {
+            "name": "よこがわ",
+            "p_type": "07b",
+            "from": "石川",
+            "position": "FW",
+            "annual_salary": 1600
+        },
+        "よしざわ": {
+            "name": "よしざわ",
+            "p_type": "07b",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 200
+        },
+        "リオ": {
+            "name": "リオ",
+            "p_type": "07b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2200
+        },
+        "あかさか": {
+            "name": "あかさか",
+            "p_type": "07c",
+            "from": "大阪",
+            "position": "GK",
+            "annual_salary": 200
+        },
+        "いいやま": {
+            "name": "いいやま",
+            "p_type": "07c",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "いけじり": {
+            "name": "いけじり",
+            "p_type": "07c",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "いずみかわ": {
+            "name": "いずみかわ",
+            "p_type": "07c",
+            "from": "香川",
+            "position": "FW",
+            "annual_salary": 1300
+        },
+        "うえの": {
+            "name": "うえの",
+            "p_type": "07c",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "えすみ": {
+            "name": "えすみ",
+            "p_type": "07c",
+            "from": "島根",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "えのもと": {
+            "name": "えのもと",
+            "p_type": "07c",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 350
+        },
+        "えびす": {
+            "name": "えびす",
+            "p_type": "07c",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "エレット": {
+            "name": "エレット",
+            "p_type": "07c",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3800
+        },
+        "おおうちやま": {
+            "name": "おおうちやま",
+            "p_type": "07c",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "おんみょうじ": {
+            "name": "おんみょうじ",
+            "p_type": "07c",
+            "from": "山形",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "かご": {
+            "name": "かご",
+            "p_type": "07c",
+            "from": "奈良",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "かしい": {
+            "name": "かしい",
+            "p_type": "07c",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 1600
+        },
+        "ガルシア": {
+            "name": "ガルシア",
+            "p_type": "07c",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 4100
+        },
+        "かわばた": {
+            "name": "かわばた",
+            "p_type": "07c",
+            "from": "宮城",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "キエーザ": {
+            "name": "キエーザ",
+            "p_type": "07c",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 2200
+        },
+        "ぎおん": {
+            "name": "ぎおん",
+            "p_type": "07c",
+            "from": "岡山",
+            "position": "MF",
+            "annual_salary": 850
+        },
+        "きみしま": {
+            "name": "きみしま",
+            "p_type": "07c",
+            "from": "栃木",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "くぬぎ": {
+            "name": "くぬぎ",
+            "p_type": "07c",
+            "from": "山梨",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "くらき": {
+            "name": "くらき",
+            "p_type": "07c",
+            "from": "京都",
+            "position": "GK",
+            "annual_salary": 750
+        },
+        "ゴーン": {
+            "name": "ゴーン",
+            "p_type": "07c",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 7500
+        },
+        "こうさか": {
+            "name": "こうさか",
+            "p_type": "07c",
+            "from": "愛知",
+            "position": "GK",
+            "annual_salary": 500
+        },
+        "こばやかわ": {
+            "name": "こばやかわ",
+            "p_type": "07c",
+            "from": "広島",
+            "position": "GK",
+            "annual_salary": 800
+        },
+        "こひなた": {
+            "name": "こひなた",
+            "p_type": "07c",
+            "from": "新潟",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "ざいぜん": {
+            "name": "ざいぜん",
+            "p_type": "07c",
+            "from": "大分",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "さかえむら": {
+            "name": "さかえむら",
+            "p_type": "07c",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 1700
+        },
+        "さこだ": {
+            "name": "さこだ",
+            "p_type": "07c",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "ささくら": {
+            "name": "ささくら",
+            "p_type": "07c",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 4000
+        },
+        "さんもんじ": {
+            "name": "さんもんじ",
+            "p_type": "07c",
+            "from": "宮城",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "しばさき": {
+            "name": "しばさき",
+            "p_type": "07c",
+            "from": "和歌山",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "じょうのうち": {
+            "name": "じょうのうち",
+            "p_type": "07c",
+            "from": "茨城",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "しょうぶ": {
+            "name": "しょうぶ",
+            "p_type": "07c",
+            "from": "山形",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "しらいし": {
+            "name": "しらいし",
+            "p_type": "07c",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "せき": {
+            "name": "せき",
+            "p_type": "07c",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "せきぐち": {
+            "name": "せきぐち",
+            "p_type": "07c",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 450
+        },
+        "たいら": {
+            "name": "たいら",
+            "p_type": "07c",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 4000
+        },
+        "たかい": {
+            "name": "たかい",
+            "p_type": "07c",
+            "from": "奈良",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "たきざわ": {
+            "name": "たきざわ",
+            "p_type": "07c",
+            "from": "長野",
+            "position": "GK",
+            "annual_salary": 1500
+        },
+        "たしろ": {
+            "name": "たしろ",
+            "p_type": "07c",
+            "from": "栃木",
+            "position": "MF",
+            "annual_salary": 150
+        },
+        "タバレス": {
+            "name": "タバレス",
+            "p_type": "07c",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2200
+        },
+        "つるはし": {
+            "name": "つるはし",
+            "p_type": "07c",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "とねがわ": {
+            "name": "とねがわ",
+            "p_type": "07c",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "とみなが": {
+            "name": "とみなが",
+            "p_type": "07c",
+            "from": "徳島",
+            "position": "FW",
+            "annual_salary": 850
+        },
+        "なかもり": {
+            "name": "なかもり",
+            "p_type": "07c",
+            "from": "三重",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "ななせ": {
+            "name": "ななせ",
+            "p_type": "07c",
+            "from": "岡山",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "にった": {
+            "name": "にった",
+            "p_type": "07c",
+            "from": "富山",
+            "position": "DF",
+            "annual_salary": 1300
+        },
+        "ねぎやま": {
+            "name": "ねぎやま",
+            "p_type": "07c",
+            "from": "岩手",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "のざき": {
+            "name": "のざき",
+            "p_type": "07c",
+            "from": "石川",
+            "position": "FW",
+            "annual_salary": 1300
+        },
+        "のりたけ": {
+            "name": "のりたけ",
+            "p_type": "07c",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 350
+        },
+        "はかまだ": {
+            "name": "はかまだ",
+            "p_type": "07c",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "はなまき": {
+            "name": "はなまき",
+            "p_type": "07c",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 800
+        },
+        "ひがしやま": {
+            "name": "ひがしやま",
+            "p_type": "07c",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "ヒルトン": {
+            "name": "ヒルトン",
+            "p_type": "07c",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 9000
+        },
+        "ひろせ": {
+            "name": "ひろせ",
+            "p_type": "07c",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "ふじさわ": {
+            "name": "ふじさわ",
+            "p_type": "07c",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "ベイリー": {
+            "name": "ベイリー",
+            "p_type": "07c",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "べっぷ": {
+            "name": "べっぷ",
+            "p_type": "07c",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "まの": {
+            "name": "まの",
+            "p_type": "07c",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 9500
+        },
+        "ミランコ": {
+            "name": "ミランコ",
+            "p_type": "07c",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 4400
+        },
+        "もえ": {
+            "name": "もえ",
+            "p_type": "07c",
+            "from": "新潟",
+            "position": "DF",
+            "annual_salary": 850
+        },
+        "もがき": {
+            "name": "もがき",
+            "p_type": "07c",
+            "from": "茨城",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "もりやす": {
+            "name": "もりやす",
+            "p_type": "07c",
+            "from": "岡山",
+            "position": "GK",
+            "annual_salary": 250
+        },
+        "やすい": {
+            "name": "やすい",
+            "p_type": "07c",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "よねやま": {
+            "name": "よねやま",
+            "p_type": "07c",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 1300
+        },
+        "レノン": {
+            "name": "レノン",
+            "p_type": "07c",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "ロブロイ": {
+            "name": "ロブロイ",
+            "p_type": "07c",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1400
+        },
+        "わきさか": {
+            "name": "わきさか",
+            "p_type": "07c",
+            "from": "北海道",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "アルキメデス": {
+            "name": "アルキメデス",
+            "p_type": "07d",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3300
+        },
+        "いけがみ": {
+            "name": "いけがみ",
+            "p_type": "07d",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 350
+        },
+        "いたい": {
+            "name": "いたい",
+            "p_type": "07d",
+            "from": "大分",
+            "position": "MF",
+            "annual_salary": 4800
+        },
+        "エルナンデス": {
+            "name": "エルナンデス",
+            "p_type": "07d",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1700
+        },
+        "きむら": {
+            "name": "きむら",
+            "p_type": "07d",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "グラヴァニ": {
+            "name": "グラヴァニ",
+            "p_type": "07d",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1400
+        },
+        "しみず": {
+            "name": "しみず",
+            "p_type": "07d",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 550
+        },
+        "とりけん": {
+            "name": "とりけん",
+            "p_type": "07d",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 250
+        },
+        "ねじめ": {
+            "name": "ねじめ",
+            "p_type": "07d",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "はしもと": {
+            "name": "はしもと",
+            "p_type": "07d",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 550
+        },
+        "まつなが": {
+            "name": "まつなが",
+            "p_type": "07d",
+            "from": "奈良",
+            "position": "FW",
+            "annual_salary": 350
+        },
+        "みきもと": {
+            "name": "みきもと",
+            "p_type": "07d",
+            "from": "広島",
+            "position": "MF",
+            "annual_salary": 200
+        },
+        "みほ": {
+            "name": "みほ",
+            "p_type": "07d",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 50
+        },
+        "やまもり": {
+            "name": "やまもり",
+            "p_type": "07d",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 2500
+        },
+        "やわた": {
+            "name": "やわた",
+            "p_type": "07d",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "ワイズマン": {
+            "name": "ワイズマン",
+            "p_type": "07d",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3600
+        },
+        "いとさき": {
+            "name": "いとさき",
+            "p_type": "07e",
+            "from": "石川",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "うちやま": {
+            "name": "うちやま",
+            "p_type": "07e",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 3500
+        },
+        "うめ": {
+            "name": "うめ",
+            "p_type": "07e",
+            "from": "徳島",
+            "position": "GK",
+            "annual_salary": 4000
+        },
+        "えいと": {
+            "name": "えいと",
+            "p_type": "07e",
+            "from": "三重",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "えなり": {
+            "name": "えなり",
+            "p_type": "07e",
+            "from": "神奈川",
+            "position": "FW",
+            "annual_salary": 450
+        },
+        "おいわけ": {
+            "name": "おいわけ",
+            "p_type": "07e",
+            "from": "富山",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "おうぎ": {
+            "name": "おうぎ",
+            "p_type": "07e",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 7500
+        },
+        "かねこ": {
+            "name": "かねこ",
+            "p_type": "07e",
+            "from": "群馬",
+            "position": "MF",
+            "annual_salary": 1500
+        },
+        "きざき": {
+            "name": "きざき",
+            "p_type": "07e",
+            "from": "京都",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "ギバルシュ": {
+            "name": "ギバルシュ",
+            "p_type": "07e",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 7500
+        },
+        "クリスタル": {
+            "name": "クリスタル",
+            "p_type": "07e",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "ゴーベス": {
+            "name": "ゴーベス",
+            "p_type": "07e",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 5300
+        },
+        "こまつ": {
+            "name": "こまつ",
+            "p_type": "07e",
+            "from": "長野",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "さかうち": {
+            "name": "さかうち",
+            "p_type": "07e",
+            "from": "北海道",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "さとや": {
+            "name": "さとや",
+            "p_type": "07e",
+            "from": "石川",
+            "position": "MF",
+            "annual_salary": 150
+        },
+        "しのやま": {
+            "name": "しのやま",
+            "p_type": "07e",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 4600
+        },
+        "すぎむら": {
+            "name": "すぎむら",
+            "p_type": "07e",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "せた": {
+            "name": "せた",
+            "p_type": "07e",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "ダラーラ": {
+            "name": "ダラーラ",
+            "p_type": "07e",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "なつめ": {
+            "name": "なつめ",
+            "p_type": "07e",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "なや": {
+            "name": "なや",
+            "p_type": "07e",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "バッハマン": {
+            "name": "バッハマン",
+            "p_type": "07e",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 11000
+        },
+        "ほり": {
+            "name": "ほり",
+            "p_type": "07e",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 4300
+        },
+        "やおい": {
+            "name": "やおい",
+            "p_type": "07e",
+            "from": "奈良",
+            "position": "DF",
+            "annual_salary": 4100
+        },
+        "やまかげ": {
+            "name": "やまかげ",
+            "p_type": "07e",
+            "from": "岩手",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "やまもと": {
+            "name": "やまもと",
+            "p_type": "07e",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "りゅうざき": {
+            "name": "りゅうざき",
+            "p_type": "07e",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "レオンハート": {
+            "name": "レオンハート",
+            "p_type": "07e",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2600
+        },
+        "ワルドナー": {
+            "name": "ワルドナー",
+            "p_type": "07e",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 17000
+        },
+        "あきもと": {
+            "name": "あきもと",
+            "p_type": "07f",
+            "from": "神奈川",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "あまみ": {
+            "name": "あまみ",
+            "p_type": "07f",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 3500
+        },
+        "ありもり": {
+            "name": "ありもり",
+            "p_type": "07f",
+            "from": "佐賀",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "いしだ": {
+            "name": "いしだ",
+            "p_type": "07f",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "いせざき": {
+            "name": "いせざき",
+            "p_type": "07f",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "いちい": {
+            "name": "いちい",
+            "p_type": "07f",
+            "from": "滋賀",
+            "position": "MF",
+            "annual_salary": 4000
+        },
+        "いちむら": {
+            "name": "いちむら",
+            "p_type": "07f",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 1300
+        },
+        "いつかいち": {
+            "name": "いつかいち",
+            "p_type": "07f",
+            "from": "岩手",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "うらかわ": {
+            "name": "うらかわ",
+            "p_type": "07f",
+            "from": "三重",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "おにまる": {
+            "name": "おにまる",
+            "p_type": "07f",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "カーペンター": {
+            "name": "カーペンター",
+            "p_type": "07f",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 2500
+        },
+        "かたひら": {
+            "name": "かたひら",
+            "p_type": "07f",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "カリギウーリ": {
+            "name": "カリギウーリ",
+            "p_type": "07f",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "きくちはら": {
+            "name": "きくちはら",
+            "p_type": "07f",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "きら": {
+            "name": "きら",
+            "p_type": "07f",
+            "from": "大分",
+            "position": "DF",
+            "annual_salary": 650
+        },
+        "くすもと": {
+            "name": "くすもと",
+            "p_type": "07f",
+            "from": "和歌山",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "ごとう": {
+            "name": "ごとう",
+            "p_type": "07f",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "こびるまき": {
+            "name": "こびるまき",
+            "p_type": "07f",
+            "from": "青森",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "さくもと": {
+            "name": "さくもと",
+            "p_type": "07f",
+            "from": "長崎",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "さくら": {
+            "name": "さくら",
+            "p_type": "07f",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "さわだ": {
+            "name": "さわだ",
+            "p_type": "07f",
+            "from": "福井",
+            "position": "DF",
+            "annual_salary": 2800
+        },
+        "じくまる": {
+            "name": "じくまる",
+            "p_type": "07f",
+            "from": "大分",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "しぶや": {
+            "name": "しぶや",
+            "p_type": "07f",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 900
+        },
+        "せと": {
+            "name": "せと",
+            "p_type": "07f",
+            "from": "佐賀",
+            "position": "FW",
+            "annual_salary": 4600
+        },
+        "たかぎ": {
+            "name": "たかぎ",
+            "p_type": "07f",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "つのだ": {
+            "name": "つのだ",
+            "p_type": "07f",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "ディートリヒ": {
+            "name": "ディートリヒ",
+            "p_type": "07f",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "ときわ": {
+            "name": "ときわ",
+            "p_type": "07f",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 350
+        },
+        "ならはら": {
+            "name": "ならはら",
+            "p_type": "07f",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "ニキータ": {
+            "name": "ニキータ",
+            "p_type": "07f",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3200
+        },
+        "にしくぼ": {
+            "name": "にしくぼ",
+            "p_type": "07f",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 50
+        },
+        "のぶさわ": {
+            "name": "のぶさわ",
+            "p_type": "07f",
+            "from": "群馬",
+            "position": "MF",
+            "annual_salary": 200
+        },
+        "バイロン": {
+            "name": "バイロン",
+            "p_type": "07f",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 4700
+        },
+        "はしば": {
+            "name": "はしば",
+            "p_type": "07f",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 2400
+        },
+        "ふかつ": {
+            "name": "ふかつ",
+            "p_type": "07f",
+            "from": "群馬",
+            "position": "DF",
+            "annual_salary": 250
+        },
+        "ベガ": {
+            "name": "ベガ",
+            "p_type": "07f",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 2200
+        },
+        "ベンジャミン": {
+            "name": "ベンジャミン",
+            "p_type": "07f",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 1700
+        },
+        "ほった": {
+            "name": "ほった",
+            "p_type": "07f",
+            "from": "広島",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "まきむら": {
+            "name": "まきむら",
+            "p_type": "07f",
+            "from": "岐阜",
+            "position": "FW",
+            "annual_salary": 1900
+        },
+        "ますざわ": {
+            "name": "ますざわ",
+            "p_type": "07f",
+            "from": "岩手",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "まるやま": {
+            "name": "まるやま",
+            "p_type": "07f",
+            "from": "岡山",
+            "position": "MF",
+            "annual_salary": 50
+        },
+        "みぎた": {
+            "name": "みぎた",
+            "p_type": "07f",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "みたぞの": {
+            "name": "みたぞの",
+            "p_type": "07f",
+            "from": "鹿児島",
+            "position": "MF",
+            "annual_salary": 900
+        },
+        "めかた": {
+            "name": "めかた",
+            "p_type": "07f",
+            "from": "岐阜",
+            "position": "GK",
+            "annual_salary": 650
+        },
+        "もとみや": {
+            "name": "もとみや",
+            "p_type": "07f",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "ももい": {
+            "name": "ももい",
+            "p_type": "07f",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 5000
+        },
+        "もりぐち": {
+            "name": "もりぐち",
+            "p_type": "07f",
+            "from": "鳥取",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "やまじ": {
+            "name": "やまじ",
+            "p_type": "07f",
+            "from": "香川",
+            "position": "MF",
+            "annual_salary": 200
+        },
+        "ようかい": {
+            "name": "ようかい",
+            "p_type": "07f",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 2500
+        },
+        "よつもと": {
+            "name": "よつもと",
+            "p_type": "07f",
+            "from": "宮崎",
+            "position": "GK",
+            "annual_salary": 5000
+        },
+        "わかお": {
+            "name": "わかお",
+            "p_type": "07f",
+            "from": "岐阜",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "わかばやし": {
+            "name": "わかばやし",
+            "p_type": "07f",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 2300
+        },
+        "あいこ": {
+            "name": "あいこ",
+            "p_type": "07g",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 3300
+        },
+        "あいだ": {
+            "name": "あいだ",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "ありの": {
+            "name": "ありの",
+            "p_type": "07g",
+            "from": "山梨",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "ありよし": {
+            "name": "ありよし",
+            "p_type": "07g",
+            "from": "福岡",
+            "position": "GK",
+            "annual_salary": 900
+        },
+        "アリンガム": {
+            "name": "アリンガム",
+            "p_type": "07g",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "いいじま": {
+            "name": "いいじま",
+            "p_type": "07g",
+            "from": "栃木",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "いがわ": {
+            "name": "いがわ",
+            "p_type": "07g",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "いこま": {
+            "name": "いこま",
+            "p_type": "07g",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 2100
+        },
+        "いしざき": {
+            "name": "いしざき",
+            "p_type": "07g",
+            "from": "京都",
+            "position": "MF",
+            "annual_salary": 250
+        },
+        "いわさき": {
+            "name": "いわさき",
+            "p_type": "07g",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "いわぶち": {
+            "name": "いわぶち",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 4300
+        },
+        "うじはら": {
+            "name": "うじはら",
+            "p_type": "07g",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "うりの": {
+            "name": "うりの",
+            "p_type": "07g",
+            "from": "福岡",
+            "position": "GK",
+            "annual_salary": 1800
+        },
+        "うるしざき": {
+            "name": "うるしざき",
+            "p_type": "07g",
+            "from": "福井",
+            "position": "DF",
+            "annual_salary": 5500
+        },
+        "えばら": {
+            "name": "えばら",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "えんや": {
+            "name": "えんや",
+            "p_type": "07g",
+            "from": "島根",
+            "position": "GK",
+            "annual_salary": 400
+        },
+        "おおぬま": {
+            "name": "おおぬま",
+            "p_type": "07g",
+            "from": "山形",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "おぐり": {
+            "name": "おぐり",
+            "p_type": "07g",
+            "from": "岐阜",
+            "position": "GK",
+            "annual_salary": 50
+        },
+        "オコネル": {
+            "name": "オコネル",
+            "p_type": "07g",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "おぜき": {
+            "name": "おぜき",
+            "p_type": "07g",
+            "from": "岐阜",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "おのだ": {
+            "name": "おのだ",
+            "p_type": "07g",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 350
+        },
+        "かきざわ": {
+            "name": "かきざわ",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "かすかべ": {
+            "name": "かすかべ",
+            "p_type": "07g",
+            "from": "三重",
+            "position": "DF",
+            "annual_salary": 1400
+        },
+        "かみやま": {
+            "name": "かみやま",
+            "p_type": "07g",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 2100
+        },
+        "かめやま": {
+            "name": "かめやま",
+            "p_type": "07g",
+            "from": "岐阜",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "かんどり": {
+            "name": "かんどり",
+            "p_type": "07g",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "キアリーニ": {
+            "name": "キアリーニ",
+            "p_type": "07g",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2100
+        },
+        "きっかわ": {
+            "name": "きっかわ",
+            "p_type": "07g",
+            "from": "広島",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "クロイツァー": {
+            "name": "クロイツァー",
+            "p_type": "07g",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 6500
+        },
+        "クロウ": {
+            "name": "クロウ",
+            "p_type": "07g",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "こいで": {
+            "name": "こいで",
+            "p_type": "07g",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "こおりやま": {
+            "name": "こおりやま",
+            "p_type": "07g",
+            "from": "鹿児島",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "ここのえ": {
+            "name": "ここのえ",
+            "p_type": "07g",
+            "from": "滋賀",
+            "position": "FW",
+            "annual_salary": 6300
+        },
+        "こしの": {
+            "name": "こしの",
+            "p_type": "07g",
+            "from": "島根",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "こまざわ": {
+            "name": "こまざわ",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "GK",
+            "annual_salary": 1000
+        },
+        "コンラード": {
+            "name": "コンラード",
+            "p_type": "07g",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "さえぐさ": {
+            "name": "さえぐさ",
+            "p_type": "07g",
+            "from": "山梨",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "さくらば": {
+            "name": "さくらば",
+            "p_type": "07g",
+            "from": "青森",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "しいな": {
+            "name": "しいな",
+            "p_type": "07g",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 1800
+        },
+        "しおた": {
+            "name": "しおた",
+            "p_type": "07g",
+            "from": "京都",
+            "position": "MF",
+            "annual_salary": 4100
+        },
+        "しきしま": {
+            "name": "しきしま",
+            "p_type": "07g",
+            "from": "徳島",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "しむら": {
+            "name": "しむら",
+            "p_type": "07g",
+            "from": "山梨",
+            "position": "DF",
+            "annual_salary": 1300
+        },
+        "じゅうもんじ": {
+            "name": "じゅうもんじ",
+            "p_type": "07g",
+            "from": "青森",
+            "position": "GK",
+            "annual_salary": 250
+        },
+        "すぎもと": {
+            "name": "すぎもと",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "せつこ": {
+            "name": "せつこ",
+            "p_type": "07g",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "せりざわ": {
+            "name": "せりざわ",
+            "p_type": "07g",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 50
+        },
+        "たにやま": {
+            "name": "たにやま",
+            "p_type": "07g",
+            "from": "長崎",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "たまえ": {
+            "name": "たまえ",
+            "p_type": "07g",
+            "from": "奈良",
+            "position": "MF",
+            "annual_salary": 850
+        },
+        "ちひろ": {
+            "name": "ちひろ",
+            "p_type": "07g",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 650
+        },
+        "つきやま": {
+            "name": "つきやま",
+            "p_type": "07g",
+            "from": "岩手",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "てんま": {
+            "name": "てんま",
+            "p_type": "07g",
+            "from": "青森",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "とうじょう": {
+            "name": "とうじょう",
+            "p_type": "07g",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "どうめき": {
+            "name": "どうめき",
+            "p_type": "07g",
+            "from": "茨城",
+            "position": "MF",
+            "annual_salary": 450
+        },
+        "とおやま": {
+            "name": "とおやま",
+            "p_type": "07g",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 650
+        },
+        "ながさく": {
+            "name": "ながさく",
+            "p_type": "07g",
+            "from": "茨城",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "なかの": {
+            "name": "なかの",
+            "p_type": "07g",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 3300
+        },
+        "なぎり": {
+            "name": "なぎり",
+            "p_type": "07g",
+            "from": "長崎",
+            "position": "GK",
+            "annual_salary": 1100
+        },
+        "なつかわ": {
+            "name": "なつかわ",
+            "p_type": "07g",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 2100
+        },
+        "にいづま": {
+            "name": "にいづま",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 3500
+        },
+        "にしかわ": {
+            "name": "にしかわ",
+            "p_type": "07g",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "ぬのかわ": {
+            "name": "ぬのかわ",
+            "p_type": "07g",
+            "from": "新潟",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "ねづ": {
+            "name": "ねづ",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "ネルンスト": {
+            "name": "ネルンスト",
+            "p_type": "07g",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 6500
+        },
+        "のじま": {
+            "name": "のじま",
+            "p_type": "07g",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "はやみ": {
+            "name": "はやみ",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 50
+        },
+        "ひがしで": {
+            "name": "ひがしで",
+            "p_type": "07g",
+            "from": "石川",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "ひとつばし": {
+            "name": "ひとつばし",
+            "p_type": "07g",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "ヒメネス": {
+            "name": "ヒメネス",
+            "p_type": "07g",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 6000
+        },
+        "ヒラリー": {
+            "name": "ヒラリー",
+            "p_type": "07g",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3800
+        },
+        "ふかみ": {
+            "name": "ふかみ",
+            "p_type": "07g",
+            "from": "新潟",
+            "position": "MF",
+            "annual_salary": 1400
+        },
+        "ふくなが": {
+            "name": "ふくなが",
+            "p_type": "07g",
+            "from": "高知",
+            "position": "FW",
+            "annual_salary": 1300
+        },
+        "ペーターゼン": {
+            "name": "ペーターゼン",
+            "p_type": "07g",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1900
+        },
+        "ほくと": {
+            "name": "ほくと",
+            "p_type": "07g",
+            "from": "鳥取",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "ほんじょう": {
+            "name": "ほんじょう",
+            "p_type": "07g",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "まきの": {
+            "name": "まきの",
+            "p_type": "07g",
+            "from": "島根",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "まさき": {
+            "name": "まさき",
+            "p_type": "07g",
+            "from": "兵庫",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "まつだ": {
+            "name": "まつだ",
+            "p_type": "07g",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "まつばら": {
+            "name": "まつばら",
+            "p_type": "07g",
+            "from": "香川",
+            "position": "GK",
+            "annual_salary": 3900
+        },
+        "まなみ": {
+            "name": "まなみ",
+            "p_type": "07g",
+            "from": "島根",
+            "position": "DF",
+            "annual_salary": 2800
+        },
+        "まんげつ": {
+            "name": "まんげつ",
+            "p_type": "07g",
+            "from": "北海道",
+            "position": "DF",
+            "annual_salary": 3200
+        },
+        "みつい": {
+            "name": "みつい",
+            "p_type": "07g",
+            "from": "長野",
+            "position": "FW",
+            "annual_salary": 50
+        },
+        "みやざき": {
+            "name": "みやざき",
+            "p_type": "07g",
+            "from": "熊本",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "みやじ": {
+            "name": "みやじ",
+            "p_type": "07g",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 6400
+        },
+        "みやた": {
+            "name": "みやた",
+            "p_type": "07g",
+            "from": "宮崎",
+            "position": "FW",
+            "annual_salary": 5600
+        },
+        "みゆき": {
+            "name": "みゆき",
+            "p_type": "07g",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 4800
+        },
+        "むてき": {
+            "name": "むてき",
+            "p_type": "07g",
+            "from": "山口",
+            "position": "FW",
+            "annual_salary": 5000
+        },
+        "ムニョス": {
+            "name": "ムニョス",
+            "p_type": "07g",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2700
+        },
+        "もとき": {
+            "name": "もとき",
+            "p_type": "07g",
+            "from": "富山",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "もりお": {
+            "name": "もりお",
+            "p_type": "07g",
+            "from": "高知",
+            "position": "DF",
+            "annual_salary": 3500
+        },
+        "もりしげ": {
+            "name": "もりしげ",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "もろおか": {
+            "name": "もろおか",
+            "p_type": "07g",
+            "from": "東京",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "やぐち": {
+            "name": "やぐち",
+            "p_type": "07g",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "やくまる": {
+            "name": "やくまる",
+            "p_type": "07g",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 450
+        },
+        "やじま": {
+            "name": "やじま",
+            "p_type": "07g",
+            "from": "埼玉",
+            "position": "FW",
+            "annual_salary": 850
+        },
+        "ヤスパース": {
+            "name": "ヤスパース",
+            "p_type": "07g",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 10000
+        },
+        "やまざき": {
+            "name": "やまざき",
+            "p_type": "07g",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "ゆたに": {
+            "name": "ゆたに",
+            "p_type": "07g",
+            "from": "香川",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "ゆみおか": {
+            "name": "ゆみおか",
+            "p_type": "07g",
+            "from": "兵庫",
+            "position": "GK",
+            "annual_salary": 550
+        },
+        "よしとみ": {
+            "name": "よしとみ",
+            "p_type": "07g",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "ラブローカ": {
+            "name": "ラブローカ",
+            "p_type": "07g",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 1500
+        },
+        "りくかわ": {
+            "name": "りくかわ",
+            "p_type": "07g",
+            "from": "新潟",
+            "position": "GK",
+            "annual_salary": 250
+        },
+        "リドー": {
+            "name": "リドー",
+            "p_type": "07g",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2600
+        },
+        "ルノワール": {
+            "name": "ルノワール",
+            "p_type": "07g",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 4200
+        },
+        "わしお": {
+            "name": "わしお",
+            "p_type": "07g",
+            "from": "兵庫",
+            "position": "MF",
+            "annual_salary": 1700
+        },
+        "アダミッチ": {
+            "name": "アダミッチ",
+            "p_type": "07h",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1800
+        },
+        "アベル": {
+            "name": "アベル",
+            "p_type": "07h",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 1700
+        },
+        "オードリー": {
+            "name": "オードリー",
+            "p_type": "07h",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2200
+        },
+        "かけい": {
+            "name": "かけい",
+            "p_type": "07h",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "かもん": {
+            "name": "かもん",
+            "p_type": "07h",
+            "from": "大阪",
+            "position": "GK",
+            "annual_salary": 5500
+        },
+        "からさわ": {
+            "name": "からさわ",
+            "p_type": "07h",
+            "from": "長野",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "くりね": {
+            "name": "くりね",
+            "p_type": "07h",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 1600
+        },
+        "こだま": {
+            "name": "こだま",
+            "p_type": "07h",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 550
+        },
+        "さちこ": {
+            "name": "さちこ",
+            "p_type": "07h",
+            "from": "山形",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "しおかわ": {
+            "name": "しおかわ",
+            "p_type": "07h",
+            "from": "北海道",
+            "position": "DF",
+            "annual_salary": 2300
+        },
+        "ジャネット": {
+            "name": "ジャネット",
+            "p_type": "07h",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 5400
+        },
+        "ブラウン": {
+            "name": "ブラウン",
+            "p_type": "07h",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3500
+        },
+        "マックイーン": {
+            "name": "マックイーン",
+            "p_type": "07h",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 5800
+        },
+        "みたむら": {
+            "name": "みたむら",
+            "p_type": "07h",
+            "from": "岐阜",
+            "position": "GK",
+            "annual_salary": 2500
+        },
+        "レザンスカ": {
+            "name": "レザンスカ",
+            "p_type": "07h",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 15000
+        },
+        "いしざか": {
+            "name": "いしざか",
+            "p_type": "07i",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 1700
+        },
+        "いなもり": {
+            "name": "いなもり",
+            "p_type": "07i",
+            "from": "三重",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "エンリケ": {
+            "name": "エンリケ",
+            "p_type": "07i",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 10000
+        },
+        "クラリス": {
+            "name": "クラリス",
+            "p_type": "07i",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 4500
+        },
+        "なだ": {
+            "name": "なだ",
+            "p_type": "07i",
+            "from": "兵庫",
+            "position": "GK",
+            "annual_salary": 2200
+        },
+        "ばん": {
+            "name": "ばん",
+            "p_type": "07i",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 1800
+        },
+        "ヘプバーン": {
+            "name": "ヘプバーン",
+            "p_type": "07i",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3600
+        },
+        "へんみ": {
+            "name": "へんみ",
+            "p_type": "07i",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 3500
+        },
+        "まんざい": {
+            "name": "まんざい",
+            "p_type": "07i",
+            "from": "新潟",
+            "position": "MF",
+            "annual_salary": 2100
+        },
+        "モンゴメリー": {
+            "name": "モンゴメリー",
+            "p_type": "07i",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "ロビンソン": {
+            "name": "ロビンソン",
+            "p_type": "07i",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 13000
+        },
+        "あまの": {
+            "name": "あまの",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "いたくら": {
+            "name": "いたくら",
+            "p_type": "08a",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "いのくま": {
+            "name": "いのくま",
+            "p_type": "08a",
+            "from": "香川",
+            "position": "MF",
+            "annual_salary": 250
+        },
+        "うめはら": {
+            "name": "うめはら",
+            "p_type": "08a",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "うんの": {
+            "name": "うんの",
+            "p_type": "08a",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "えがしら": {
+            "name": "えがしら",
+            "p_type": "08a",
+            "from": "佐賀",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "エリアス": {
+            "name": "エリアス",
+            "p_type": "08a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 10000
+        },
+        "おおとり": {
+            "name": "おおとり",
+            "p_type": "08a",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "おおむら": {
+            "name": "おおむら",
+            "p_type": "08a",
+            "from": "福井",
+            "position": "MF",
+            "annual_salary": 1100
+        },
+        "おきな": {
+            "name": "おきな",
+            "p_type": "08a",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "おくむら": {
+            "name": "おくむら",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "FW",
+            "annual_salary": 1200
+        },
+        "おたべ": {
+            "name": "おたべ",
+            "p_type": "08a",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "かつうら": {
+            "name": "かつうら",
+            "p_type": "08a",
+            "from": "徳島",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "かばやま": {
+            "name": "かばやま",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "カルメン": {
+            "name": "カルメン",
+            "p_type": "08a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "かわしま": {
+            "name": "かわしま",
+            "p_type": "08a",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 4500
+        },
+        "ぐしけん": {
+            "name": "ぐしけん",
+            "p_type": "08a",
+            "from": "沖縄",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "くどう": {
+            "name": "くどう",
+            "p_type": "08a",
+            "from": "大分",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "くろいわ": {
+            "name": "くろいわ",
+            "p_type": "08a",
+            "from": "長野",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "ゲマール": {
+            "name": "ゲマール",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "ゲルハルト": {
+            "name": "ゲルハルト",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "ごうざき": {
+            "name": "ごうざき",
+            "p_type": "08a",
+            "from": "鳥取",
+            "position": "GK",
+            "annual_salary": 400
+        },
+        "こばやし": {
+            "name": "こばやし",
+            "p_type": "08a",
+            "from": "島根",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "こみや": {
+            "name": "こみや",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 850
+        },
+        "こみやま": {
+            "name": "こみやま",
+            "p_type": "08a",
+            "from": "山梨",
+            "position": "FW",
+            "annual_salary": 850
+        },
+        "さいじょう": {
+            "name": "さいじょう",
+            "p_type": "08a",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "ざいつ": {
+            "name": "ざいつ",
+            "p_type": "08a",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 450
+        },
+        "さかい": {
+            "name": "さかい",
+            "p_type": "08a",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 750
+        },
+        "さかもと": {
+            "name": "さかもと",
+            "p_type": "08a",
+            "from": "高知",
+            "position": "DF",
+            "annual_salary": 4500
+        },
+        "たかとり": {
+            "name": "たかとり",
+            "p_type": "08a",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 2300
+        },
+        "たつみ": {
+            "name": "たつみ",
+            "p_type": "08a",
+            "from": "奈良",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "たね": {
+            "name": "たね",
+            "p_type": "08a",
+            "from": "鳥取",
+            "position": "GK",
+            "annual_salary": 6500
+        },
+        "つつい": {
+            "name": "つつい",
+            "p_type": "08a",
+            "from": "愛知",
+            "position": "GK",
+            "annual_salary": 400
+        },
+        "つなしま": {
+            "name": "つなしま",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "GK",
+            "annual_salary": 350
+        },
+        "なかにし": {
+            "name": "なかにし",
+            "p_type": "08a",
+            "from": "京都",
+            "position": "GK",
+            "annual_salary": 1100
+        },
+        "なかもと": {
+            "name": "なかもと",
+            "p_type": "08a",
+            "from": "東京",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "なんば": {
+            "name": "なんば",
+            "p_type": "08a",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "なんぶ": {
+            "name": "なんぶ",
+            "p_type": "08a",
+            "from": "福井",
+            "position": "FW",
+            "annual_salary": 1700
+        },
+        "にくまる": {
+            "name": "にくまる",
+            "p_type": "08a",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 2000
+        },
+        "にしうら": {
+            "name": "にしうら",
+            "p_type": "08a",
+            "from": "奈良",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "にしき": {
+            "name": "にしき",
+            "p_type": "08a",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "ハンクス": {
+            "name": "ハンクス",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 750
+        },
+        "ビエナート": {
+            "name": "ビエナート",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "ひさとみ": {
+            "name": "ひさとみ",
+            "p_type": "08a",
+            "from": "福岡",
+            "position": "GK",
+            "annual_salary": 4500
+        },
+        "ヒッポリト": {
+            "name": "ヒッポリト",
+            "p_type": "08a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 7000
+        },
+        "ひとかべ": {
+            "name": "ひとかべ",
+            "p_type": "08a",
+            "from": "岩手",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "ふかだ": {
+            "name": "ふかだ",
+            "p_type": "08a",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 9000
+        },
+        "フリーマン": {
+            "name": "フリーマン",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2200
+        },
+        "マクレーン": {
+            "name": "マクレーン",
+            "p_type": "08a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "みお": {
+            "name": "みお",
+            "p_type": "08a",
+            "from": "熊本",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "みつや": {
+            "name": "みつや",
+            "p_type": "08a",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "みなみ": {
+            "name": "みなみ",
+            "p_type": "08a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "みむら": {
+            "name": "みむら",
+            "p_type": "08a",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 4700
+        },
+        "ミランダ": {
+            "name": "ミランダ",
+            "p_type": "08a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "むなかた": {
+            "name": "むなかた",
+            "p_type": "08a",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "もうり": {
+            "name": "もうり",
+            "p_type": "08a",
+            "from": "広島",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "もちすぎ": {
+            "name": "もちすぎ",
+            "p_type": "08a",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "やがみ": {
+            "name": "やがみ",
+            "p_type": "08a",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "やはぎ": {
+            "name": "やはぎ",
+            "p_type": "08a",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 1300
+        },
+        "やりみず": {
+            "name": "やりみず",
+            "p_type": "08a",
+            "from": "熊本",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "よしおか": {
+            "name": "よしおか",
+            "p_type": "08a",
+            "from": "山口",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "よねみつ": {
+            "name": "よねみつ",
+            "p_type": "08a",
+            "from": "鹿児島",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "わたり": {
+            "name": "わたり",
+            "p_type": "08a",
+            "from": "京都",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "あさひな": {
+            "name": "あさひな",
+            "p_type": "08b",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 650
+        },
+        "あだち": {
+            "name": "あだち",
+            "p_type": "08b",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 550
+        },
+        "いっしき": {
+            "name": "いっしき",
+            "p_type": "08b",
+            "from": "愛媛",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "うただ": {
+            "name": "うただ",
+            "p_type": "08b",
+            "from": "山口",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "おばた": {
+            "name": "おばた",
+            "p_type": "08b",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "カビーノ": {
+            "name": "カビーノ",
+            "p_type": "08b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 5500
+        },
+        "くにえだ": {
+            "name": "くにえだ",
+            "p_type": "08b",
+            "from": "岐阜",
+            "position": "DF",
+            "annual_salary": 1900
+        },
+        "くぼづか": {
+            "name": "くぼづか",
+            "p_type": "08b",
+            "from": "群馬",
+            "position": "MF",
+            "annual_salary": 2100
+        },
+        "くろさわ": {
+            "name": "くろさわ",
+            "p_type": "08b",
+            "from": "埼玉",
+            "position": "GK",
+            "annual_salary": 350
+        },
+        "くわだ": {
+            "name": "くわだ",
+            "p_type": "08b",
+            "from": "広島",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "さむかわ": {
+            "name": "さむかわ",
+            "p_type": "08b",
+            "from": "和歌山",
+            "position": "FW",
+            "annual_salary": 150
+        },
+        "しらい": {
+            "name": "しらい",
+            "p_type": "08b",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "たかはし": {
+            "name": "たかはし",
+            "p_type": "08b",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 1800
+        },
+        "たてやま": {
+            "name": "たてやま",
+            "p_type": "08b",
+            "from": "鹿児島",
+            "position": "GK",
+            "annual_salary": 300
+        },
+        "つるみ": {
+            "name": "つるみ",
+            "p_type": "08b",
+            "from": "岡山",
+            "position": "GK",
+            "annual_salary": 300
+        },
+        "なかがわら": {
+            "name": "なかがわら",
+            "p_type": "08b",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "なつき": {
+            "name": "なつき",
+            "p_type": "08b",
+            "from": "秋田",
+            "position": "GK",
+            "annual_salary": 200
+        },
+        "はた": {
+            "name": "はた",
+            "p_type": "08b",
+            "from": "北海道",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "はつみ": {
+            "name": "はつみ",
+            "p_type": "08b",
+            "from": "茨城",
+            "position": "FW",
+            "annual_salary": 2100
+        },
+        "ふじがや": {
+            "name": "ふじがや",
+            "p_type": "08b",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 6200
+        },
+        "みね": {
+            "name": "みね",
+            "p_type": "08b",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "むくのき": {
+            "name": "むくのき",
+            "p_type": "08b",
+            "from": "島根",
+            "position": "GK",
+            "annual_salary": 1500
+        },
+        "やまうち": {
+            "name": "やまうち",
+            "p_type": "08b",
+            "from": "京都",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "ラパス": {
+            "name": "ラパス",
+            "p_type": "08b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 3400
+        },
+        "リヴァーモア": {
+            "name": "リヴァーモア",
+            "p_type": "08b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 5000
+        },
+        "ルティエンス": {
+            "name": "ルティエンス",
+            "p_type": "08b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 4500
+        },
+        "あかつか": {
+            "name": "あかつか",
+            "p_type": "09a",
+            "from": "新潟",
+            "position": "GK",
+            "annual_salary": 1800
+        },
+        "うすい": {
+            "name": "うすい",
+            "p_type": "09a",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "エーメリー": {
+            "name": "エーメリー",
+            "p_type": "09a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 1200
+        },
+        "えちご": {
+            "name": "えちご",
+            "p_type": "09a",
+            "from": "北海道",
+            "position": "GK",
+            "annual_salary": 1200
+        },
+        "えのきだ": {
+            "name": "えのきだ",
+            "p_type": "09a",
+            "from": "鹿児島",
+            "position": "FW",
+            "annual_salary": 50
+        },
+        "おだぎり": {
+            "name": "おだぎり",
+            "p_type": "09a",
+            "from": "山梨",
+            "position": "MF",
+            "annual_salary": 5000
+        },
+        "かしむら": {
+            "name": "かしむら",
+            "p_type": "09a",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "かな": {
+            "name": "かな",
+            "p_type": "09a",
+            "from": "宮崎",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "くぼた": {
+            "name": "くぼた",
+            "p_type": "09a",
+            "from": "長野",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "くまだ": {
+            "name": "くまだ",
+            "p_type": "09a",
+            "from": "栃木",
+            "position": "DF",
+            "annual_salary": 2500
+        },
+        "くりばやし": {
+            "name": "くりばやし",
+            "p_type": "09a",
+            "from": "新潟",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "こくぶん": {
+            "name": "こくぶん",
+            "p_type": "09a",
+            "from": "福島",
+            "position": "DF",
+            "annual_salary": 15000
+        },
+        "さくま": {
+            "name": "さくま",
+            "p_type": "09a",
+            "from": "宮城",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "しぶい": {
+            "name": "しぶい",
+            "p_type": "09a",
+            "from": "栃木",
+            "position": "GK",
+            "annual_salary": 600
+        },
+        "すえよし": {
+            "name": "すえよし",
+            "p_type": "09a",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "とちお": {
+            "name": "とちお",
+            "p_type": "09a",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 2700
+        },
+        "ながえ": {
+            "name": "ながえ",
+            "p_type": "09a",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "はちや": {
+            "name": "はちや",
+            "p_type": "09a",
+            "from": "山形",
+            "position": "GK",
+            "annual_salary": 300
+        },
+        "ひの": {
+            "name": "ひの",
+            "p_type": "09a",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 5000
+        },
+        "ひらた": {
+            "name": "ひらた",
+            "p_type": "09a",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 650
+        },
+        "ふじわら": {
+            "name": "ふじわら",
+            "p_type": "09a",
+            "from": "京都",
+            "position": "MF",
+            "annual_salary": 450
+        },
+        "ほしかわ": {
+            "name": "ほしかわ",
+            "p_type": "09a",
+            "from": "群馬",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "ますだ": {
+            "name": "ますだ",
+            "p_type": "09a",
+            "from": "和歌山",
+            "position": "GK",
+            "annual_salary": 800
+        },
+        "まつした": {
+            "name": "まつした",
+            "p_type": "09a",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 1900
+        },
+        "モラー": {
+            "name": "モラー",
+            "p_type": "09a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 4400
+        },
+        "もんな": {
+            "name": "もんな",
+            "p_type": "09a",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 2800
+        },
+        "やよい": {
+            "name": "やよい",
+            "p_type": "09a",
+            "from": "佐賀",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "ワルター": {
+            "name": "ワルター",
+            "p_type": "09a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "あけち": {
+            "name": "あけち",
+            "p_type": "09b",
+            "from": "愛媛",
+            "position": "GK",
+            "annual_salary": 400
+        },
+        "あさだ": {
+            "name": "あさだ",
+            "p_type": "09b",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "アッカー": {
+            "name": "アッカー",
+            "p_type": "09b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3900
+        },
+        "あにや": {
+            "name": "あにや",
+            "p_type": "09b",
+            "from": "沖縄",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "あめみや": {
+            "name": "あめみや",
+            "p_type": "09b",
+            "from": "山梨",
+            "position": "FW",
+            "annual_salary": 650
+        },
+        "いけえ": {
+            "name": "いけえ",
+            "p_type": "09b",
+            "from": "鹿児島",
+            "position": "MF",
+            "annual_salary": 1100
+        },
+        "いしはら": {
+            "name": "いしはら",
+            "p_type": "09b",
+            "from": "三重",
+            "position": "MF",
+            "annual_salary": 2200
+        },
+        "いたがき": {
+            "name": "いたがき",
+            "p_type": "09b",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "いまいずみ": {
+            "name": "いまいずみ",
+            "p_type": "09b",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "いわいさこ": {
+            "name": "いわいさこ",
+            "p_type": "09b",
+            "from": "鹿児島",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "おおすが": {
+            "name": "おおすが",
+            "p_type": "09b",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "おおたに": {
+            "name": "おおたに",
+            "p_type": "09b",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "おおみや": {
+            "name": "おおみや",
+            "p_type": "09b",
+            "from": "北海道",
+            "position": "DF",
+            "annual_salary": 1400
+        },
+        "おぞね": {
+            "name": "おぞね",
+            "p_type": "09b",
+            "from": "栃木",
+            "position": "GK",
+            "annual_salary": 2000
+        },
+        "かんぬき": {
+            "name": "かんぬき",
+            "p_type": "09b",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "カンパース": {
+            "name": "カンパース",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "ききょう": {
+            "name": "ききょう",
+            "p_type": "09b",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 5000
+        },
+        "きくち": {
+            "name": "きくち",
+            "p_type": "09b",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "きのうち": {
+            "name": "きのうち",
+            "p_type": "09b",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "くさの": {
+            "name": "くさの",
+            "p_type": "09b",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 900
+        },
+        "クック": {
+            "name": "クック",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2100
+        },
+        "くまがや": {
+            "name": "くまがや",
+            "p_type": "09b",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 6100
+        },
+        "グライリッヒ": {
+            "name": "グライリッヒ",
+            "p_type": "09b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 18000
+        },
+        "くるみ": {
+            "name": "くるみ",
+            "p_type": "09b",
+            "from": "山口",
+            "position": "FW",
+            "annual_salary": 200
+        },
+        "こいずみ": {
+            "name": "こいずみ",
+            "p_type": "09b",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 950
+        },
+        "こうがみ": {
+            "name": "こうがみ",
+            "p_type": "09b",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 150
+        },
+        "こさこ": {
+            "name": "こさこ",
+            "p_type": "09b",
+            "from": "広島",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "こにし": {
+            "name": "こにし",
+            "p_type": "09b",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "さつき": {
+            "name": "さつき",
+            "p_type": "09b",
+            "from": "千葉",
+            "position": "FW",
+            "annual_salary": 950
+        },
+        "さやし": {
+            "name": "さやし",
+            "p_type": "09b",
+            "from": "三重",
+            "position": "GK",
+            "annual_salary": 1400
+        },
+        "サラサーテ": {
+            "name": "サラサーテ",
+            "p_type": "09b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "さわぐち": {
+            "name": "さわぐち",
+            "p_type": "09b",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 750
+        },
+        "しのづか": {
+            "name": "しのづか",
+            "p_type": "09b",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 4000
+        },
+        "スタイナー": {
+            "name": "スタイナー",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 8500
+        },
+        "そごう": {
+            "name": "そごう",
+            "p_type": "09b",
+            "from": "香川",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "だいた": {
+            "name": "だいた",
+            "p_type": "09b",
+            "from": "山口",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "たかすぎ": {
+            "name": "たかすぎ",
+            "p_type": "09b",
+            "from": "山口",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "ちねん": {
+            "name": "ちねん",
+            "p_type": "09b",
+            "from": "沖縄",
+            "position": "FW",
+            "annual_salary": 2100
+        },
+        "とみやま": {
+            "name": "とみやま",
+            "p_type": "09b",
+            "from": "沖縄",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "なかんだかれ": {
+            "name": "なかんだかれ",
+            "p_type": "09b",
+            "from": "沖縄",
+            "position": "MF",
+            "annual_salary": 200
+        },
+        "なばえ": {
+            "name": "なばえ",
+            "p_type": "09b",
+            "from": "愛媛",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "なみき": {
+            "name": "なみき",
+            "p_type": "09b",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "にほんまつ": {
+            "name": "にほんまつ",
+            "p_type": "09b",
+            "from": "長野",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "ぬしだ": {
+            "name": "ぬしだ",
+            "p_type": "09b",
+            "from": "高知",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "のうぐち": {
+            "name": "のうぐち",
+            "p_type": "09b",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 1000
+        },
+        "のぼりお": {
+            "name": "のぼりお",
+            "p_type": "09b",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 3400
+        },
+        "はまだ": {
+            "name": "はまだ",
+            "p_type": "09b",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "ひえじま": {
+            "name": "ひえじま",
+            "p_type": "09b",
+            "from": "熊本",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "ひしぬま": {
+            "name": "ひしぬま",
+            "p_type": "09b",
+            "from": "神奈川",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "ひのくま": {
+            "name": "ひのくま",
+            "p_type": "09b",
+            "from": "島根",
+            "position": "FW",
+            "annual_salary": 1100
+        },
+        "ふかざわ": {
+            "name": "ふかざわ",
+            "p_type": "09b",
+            "from": "山梨",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "ふじむら": {
+            "name": "ふじむら",
+            "p_type": "09b",
+            "from": "京都",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "ふたむら": {
+            "name": "ふたむら",
+            "p_type": "09b",
+            "from": "愛知",
+            "position": "GK",
+            "annual_salary": 400
+        },
+        "ふるはた": {
+            "name": "ふるはた",
+            "p_type": "09b",
+            "from": "長野",
+            "position": "MF",
+            "annual_salary": 250
+        },
+        "ほりうち": {
+            "name": "ほりうち",
+            "p_type": "09b",
+            "from": "山梨",
+            "position": "MF",
+            "annual_salary": 2000
+        },
+        "まえかわ": {
+            "name": "まえかわ",
+            "p_type": "09b",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 750
+        },
+        "マクドネル": {
+            "name": "マクドネル",
+            "p_type": "09b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3300
+        },
+        "まつかね": {
+            "name": "まつかね",
+            "p_type": "09b",
+            "from": "茨城",
+            "position": "DF",
+            "annual_salary": 850
+        },
+        "みくに": {
+            "name": "みくに",
+            "p_type": "09b",
+            "from": "北海道",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "みずた": {
+            "name": "みずた",
+            "p_type": "09b",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "みどり": {
+            "name": "みどり",
+            "p_type": "09b",
+            "from": "山梨",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "みはし": {
+            "name": "みはし",
+            "p_type": "09b",
+            "from": "神奈川",
+            "position": "MF",
+            "annual_salary": 350
+        },
+        "ミルコ": {
+            "name": "ミルコ",
+            "p_type": "09b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3600
+        },
+        "むろい": {
+            "name": "むろい",
+            "p_type": "09b",
+            "from": "栃木",
+            "position": "FW",
+            "annual_salary": 1900
+        },
+        "めら": {
+            "name": "めら",
+            "p_type": "09b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 50
+        },
+        "もりや": {
+            "name": "もりや",
+            "p_type": "09b",
+            "from": "長野",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "やえがき": {
+            "name": "やえがき",
+            "p_type": "09b",
+            "from": "広島",
+            "position": "FW",
+            "annual_salary": 450
+        },
+        "ヤング": {
+            "name": "ヤング",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2400
+        },
+        "ゆいかわ": {
+            "name": "ゆいかわ",
+            "p_type": "09b",
+            "from": "福井",
+            "position": "GK",
+            "annual_salary": 1600
+        },
+        "よつや": {
+            "name": "よつや",
+            "p_type": "09b",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "よなみね": {
+            "name": "よなみね",
+            "p_type": "09b",
+            "from": "沖縄",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "よねだ": {
+            "name": "よねだ",
+            "p_type": "09b",
+            "from": "北海道",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "よねむら": {
+            "name": "よねむら",
+            "p_type": "09b",
+            "from": "熊本",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "ライダー": {
+            "name": "ライダー",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "ラメル": {
+            "name": "ラメル",
+            "p_type": "09b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2900
+        },
+        "レオポルド": {
+            "name": "レオポルド",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 950
+        },
+        "ろっぽんぎ": {
+            "name": "ろっぽんぎ",
+            "p_type": "09b",
+            "from": "群馬",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "ワーズワース": {
+            "name": "ワーズワース",
+            "p_type": "09b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 8000
+        },
+        "わかまつ": {
+            "name": "わかまつ",
+            "p_type": "09b",
+            "from": "宮崎",
+            "position": "FW",
+            "annual_salary": 500
+        },
+        "わたらい": {
+            "name": "わたらい",
+            "p_type": "09b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 7000
+        },
+        "いでぐち": {
+            "name": "いでぐち",
+            "p_type": "09c",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "いまおか": {
+            "name": "いまおか",
+            "p_type": "09c",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "エイルホフ": {
+            "name": "エイルホフ",
+            "p_type": "09c",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2000
+        },
+        "えびはら": {
+            "name": "えびはら",
+            "p_type": "09c",
+            "from": "宮崎",
+            "position": "MF",
+            "annual_salary": 1300
+        },
+        "しがき": {
+            "name": "しがき",
+            "p_type": "09c",
+            "from": "熊本",
+            "position": "FW",
+            "annual_salary": 750
+        },
+        "ぜんば": {
+            "name": "ぜんば",
+            "p_type": "09c",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 350
+        },
+        "とりの": {
+            "name": "とりの",
+            "p_type": "09c",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 3200
+        },
+        "フローリッヒ": {
+            "name": "フローリッヒ",
+            "p_type": "09c",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 7000
+        },
+        "あいざわ": {
+            "name": "あいざわ",
+            "p_type": "10a",
+            "from": "福島",
+            "position": "DF",
+            "annual_salary": 3100
+        },
+        "あおき": {
+            "name": "あおき",
+            "p_type": "10a",
+            "from": "徳島",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "あかばね": {
+            "name": "あかばね",
+            "p_type": "10a",
+            "from": "栃木",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "あさの": {
+            "name": "あさの",
+            "p_type": "10a",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 700
+        },
+        "あそう": {
+            "name": "あそう",
+            "p_type": "10a",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 4000
+        },
+        "あやか": {
+            "name": "あやか",
+            "p_type": "10a",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "あゆかわ": {
+            "name": "あゆかわ",
+            "p_type": "10a",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "いいぬま": {
+            "name": "いいぬま",
+            "p_type": "10a",
+            "from": "岐阜",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "いぶき": {
+            "name": "いぶき",
+            "p_type": "10a",
+            "from": "滋賀",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "いもかわ": {
+            "name": "いもかわ",
+            "p_type": "10a",
+            "from": "長野",
+            "position": "DF",
+            "annual_salary": 3200
+        },
+        "いんどう": {
+            "name": "いんどう",
+            "p_type": "10a",
+            "from": "熊本",
+            "position": "MF",
+            "annual_salary": 1100
+        },
+        "うえむら": {
+            "name": "うえむら",
+            "p_type": "10a",
+            "from": "奈良",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "うさみ": {
+            "name": "うさみ",
+            "p_type": "10a",
+            "from": "静岡",
+            "position": "GK",
+            "annual_salary": 100
+        },
+        "ウッドマン": {
+            "name": "ウッドマン",
+            "p_type": "10a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "えりか": {
+            "name": "えりか",
+            "p_type": "10a",
+            "from": "富山",
+            "position": "MF",
+            "annual_salary": 2900
+        },
+        "エルニーニョ": {
+            "name": "エルニーニョ",
+            "p_type": "10a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 950
+        },
+        "おくざわ": {
+            "name": "おくざわ",
+            "p_type": "10a",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "おやまだ": {
+            "name": "おやまだ",
+            "p_type": "10a",
+            "from": "栃木",
+            "position": "FW",
+            "annual_salary": 1200
+        },
+        "かいぬま": {
+            "name": "かいぬま",
+            "p_type": "10a",
+            "from": "山形",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "かさぬま": {
+            "name": "かさぬま",
+            "p_type": "10a",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "かとう": {
+            "name": "かとう",
+            "p_type": "10a",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "かわな": {
+            "name": "かわな",
+            "p_type": "10a",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "きぬがさ": {
+            "name": "きぬがさ",
+            "p_type": "10a",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 950
+        },
+        "きみはら": {
+            "name": "きみはら",
+            "p_type": "10a",
+            "from": "福岡",
+            "position": "GK",
+            "annual_salary": 2300
+        },
+        "くろかわ": {
+            "name": "くろかわ",
+            "p_type": "10a",
+            "from": "愛媛",
+            "position": "MF",
+            "annual_salary": 600
+        },
+        "こいぬま": {
+            "name": "こいぬま",
+            "p_type": "10a",
+            "from": "栃木",
+            "position": "FW",
+            "annual_salary": 3000
+        },
+        "こぶちざわ": {
+            "name": "こぶちざわ",
+            "p_type": "10a",
+            "from": "山梨",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "サリヴァン": {
+            "name": "サリヴァン",
+            "p_type": "10a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2400
+        },
+        "しげまつ": {
+            "name": "しげまつ",
+            "p_type": "10a",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "しょうじ": {
+            "name": "しょうじ",
+            "p_type": "10a",
+            "from": "宮城",
+            "position": "FW",
+            "annual_salary": 1200
+        },
+        "すどう": {
+            "name": "すどう",
+            "p_type": "10a",
+            "from": "徳島",
+            "position": "FW",
+            "annual_salary": 4600
+        },
+        "そえじま": {
+            "name": "そえじま",
+            "p_type": "10a",
+            "from": "佐賀",
+            "position": "DF",
+            "annual_salary": 100
+        },
+        "だいこくや": {
+            "name": "だいこくや",
+            "p_type": "10a",
+            "from": "青森",
+            "position": "GK",
+            "annual_salary": 700
+        },
+        "たけ": {
+            "name": "たけ",
+            "p_type": "10a",
+            "from": "長崎",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "たけもと": {
+            "name": "たけもと",
+            "p_type": "10a",
+            "from": "長崎",
+            "position": "DF",
+            "annual_salary": 5200
+        },
+        "だざい": {
+            "name": "だざい",
+            "p_type": "10a",
+            "from": "宮城",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "たちばな": {
+            "name": "たちばな",
+            "p_type": "10a",
+            "from": "富山",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "ダニ": {
+            "name": "ダニ",
+            "p_type": "10a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 1800
+        },
+        "たむら": {
+            "name": "たむら",
+            "p_type": "10a",
+            "from": "埼玉",
+            "position": "GK",
+            "annual_salary": 500
+        },
+        "ダンチヒ": {
+            "name": "ダンチヒ",
+            "p_type": "10a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 2400
+        },
+        "ちゃばたけ": {
+            "name": "ちゃばたけ",
+            "p_type": "10a",
+            "from": "高知",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "てらお": {
+            "name": "てらお",
+            "p_type": "10a",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 50
+        },
+        "ノエル": {
+            "name": "ノエル",
+            "p_type": "10a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 4300
+        },
+        "ののがき": {
+            "name": "ののがき",
+            "p_type": "10a",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 750
+        },
+        "はちすか": {
+            "name": "はちすか",
+            "p_type": "10a",
+            "from": "愛知",
+            "position": "FW",
+            "annual_salary": 100
+        },
+        "はにゅうだ": {
+            "name": "はにゅうだ",
+            "p_type": "10a",
+            "from": "長野",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "びとう": {
+            "name": "びとう",
+            "p_type": "10a",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 800
+        },
+        "ひらお": {
+            "name": "ひらお",
+            "p_type": "10a",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 500
+        },
+        "ふくやま": {
+            "name": "ふくやま",
+            "p_type": "10a",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "ふじおか": {
+            "name": "ふじおか",
+            "p_type": "10a",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 2000
+        },
+        "ふじもり": {
+            "name": "ふじもり",
+            "p_type": "10a",
+            "from": "秋田",
+            "position": "MF",
+            "annual_salary": 1300
+        },
+        "ほそだ": {
+            "name": "ほそだ",
+            "p_type": "10a",
+            "from": "埼玉",
+            "position": "MF",
+            "annual_salary": 1500
+        },
+        "ほりこし": {
+            "name": "ほりこし",
+            "p_type": "10a",
+            "from": "群馬",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "ほんまる": {
+            "name": "ほんまる",
+            "p_type": "10a",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 5900
+        },
+        "まつい": {
+            "name": "まつい",
+            "p_type": "10a",
+            "from": "石川",
+            "position": "DF",
+            "annual_salary": 3700
+        },
+        "みやした": {
+            "name": "みやした",
+            "p_type": "10a",
+            "from": "和歌山",
+            "position": "FW",
+            "annual_salary": 450
+        },
+        "みやもと": {
+            "name": "みやもと",
+            "p_type": "10a",
+            "from": "愛媛",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "ミラー": {
+            "name": "ミラー",
+            "p_type": "10a",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "むらせ": {
+            "name": "むらせ",
+            "p_type": "10a",
+            "from": "愛知",
+            "position": "DF",
+            "annual_salary": 150
+        },
+        "やだ": {
+            "name": "やだ",
+            "p_type": "10a",
+            "from": "大分",
+            "position": "DF",
+            "annual_salary": 300
+        },
+        "やぶき": {
+            "name": "やぶき",
+            "p_type": "10a",
+            "from": "岡山",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "ゆうな": {
+            "name": "ゆうな",
+            "p_type": "10a",
+            "from": "鳥取",
+            "position": "FW",
+            "annual_salary": 650
+        },
+        "ルーサー": {
+            "name": "ルーサー",
+            "p_type": "10a",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 4400
+        },
+        "ルヴィッチ": {
+            "name": "ルヴィッチ",
+            "p_type": "10a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3400
+        },
+        "ロットン": {
+            "name": "ロットン",
+            "p_type": "10a",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3500
+        },
+        "ロペス": {
+            "name": "ロペス",
+            "p_type": "10a",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 2400
+        },
+        "わたぬき": {
+            "name": "わたぬき",
+            "p_type": "10a",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 100
+        },
+        "わらしな": {
+            "name": "わらしな",
+            "p_type": "10a",
+            "from": "静岡",
+            "position": "DF",
+            "annual_salary": 450
+        },
+        "アイガー": {
+            "name": "アイガー",
+            "p_type": "10b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 6000
+        },
+        "あおしま": {
+            "name": "あおしま",
+            "p_type": "10b",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 2600
+        },
+        "あおやぎ": {
+            "name": "あおやぎ",
+            "p_type": "10b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 700
+        },
+        "あらなみ": {
+            "name": "あらなみ",
+            "p_type": "10b",
+            "from": "静岡",
+            "position": "FW",
+            "annual_salary": 350
+        },
+        "いしまる": {
+            "name": "いしまる",
+            "p_type": "10b",
+            "from": "兵庫",
+            "position": "MF",
+            "annual_salary": 150
+        },
+        "いわもと": {
+            "name": "いわもと",
+            "p_type": "10b",
+            "from": "大阪",
+            "position": "DF",
+            "annual_salary": 1500
+        },
+        "うえくさ": {
+            "name": "うえくさ",
+            "p_type": "10b",
+            "from": "千葉",
+            "position": "MF",
+            "annual_salary": 7000
+        },
+        "うえはら": {
+            "name": "うえはら",
+            "p_type": "10b",
+            "from": "群馬",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "うおずみ": {
+            "name": "うおずみ",
+            "p_type": "10b",
+            "from": "兵庫",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "うしごめ": {
+            "name": "うしごめ",
+            "p_type": "10b",
+            "from": "群馬",
+            "position": "FW",
+            "annual_salary": 4500
+        },
+        "エリザベス": {
+            "name": "エリザベス",
+            "p_type": "10b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3000
+        },
+        "おおあみ": {
+            "name": "おおあみ",
+            "p_type": "10b",
+            "from": "千葉",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "オッティ": {
+            "name": "オッティ",
+            "p_type": "10b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "かいふ": {
+            "name": "かいふ",
+            "p_type": "10b",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 7500
+        },
+        "カブリーニ": {
+            "name": "カブリーニ",
+            "p_type": "10b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 5000
+        },
+        "かるべ": {
+            "name": "かるべ",
+            "p_type": "10b",
+            "from": "福岡",
+            "position": "MF",
+            "annual_salary": 400
+        },
+        "かんざき": {
+            "name": "かんざき",
+            "p_type": "10b",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "きうら": {
+            "name": "きうら",
+            "p_type": "10b",
+            "from": "岡山",
+            "position": "MF",
+            "annual_salary": 6000
+        },
+        "きしかわ": {
+            "name": "きしかわ",
+            "p_type": "10b",
+            "from": "佐賀",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "キャクストン": {
+            "name": "キャクストン",
+            "p_type": "10b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 1000
+        },
+        "キャンデロロ": {
+            "name": "キャンデロロ",
+            "p_type": "10b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 10000
+        },
+        "きょうら": {
+            "name": "きょうら",
+            "p_type": "10b",
+            "from": "東京",
+            "position": "DF",
+            "annual_salary": 1400
+        },
+        "くき": {
+            "name": "くき",
+            "p_type": "10b",
+            "from": "和歌山",
+            "position": "DF",
+            "annual_salary": 1400
+        },
+        "くさかり": {
+            "name": "くさかり",
+            "p_type": "10b",
+            "from": "山形",
+            "position": "GK",
+            "annual_salary": 900
+        },
+        "くぼう": {
+            "name": "くぼう",
+            "p_type": "10b",
+            "from": "兵庫",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "くりた": {
+            "name": "くりた",
+            "p_type": "10b",
+            "from": "静岡",
+            "position": "MF",
+            "annual_salary": 1600
+        },
+        "けら": {
+            "name": "けら",
+            "p_type": "10b",
+            "from": "新潟",
+            "position": "DF",
+            "annual_salary": 550
+        },
+        "こすぎ": {
+            "name": "こすぎ",
+            "p_type": "10b",
+            "from": "神奈川",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "さだおか": {
+            "name": "さだおか",
+            "p_type": "10b",
+            "from": "岡山",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "さわい": {
+            "name": "さわい",
+            "p_type": "10b",
+            "from": "東京",
+            "position": "MF",
+            "annual_salary": 300
+        },
+        "しぎはら": {
+            "name": "しぎはら",
+            "p_type": "10b",
+            "from": "福島",
+            "position": "FW",
+            "annual_salary": 50
+        },
+        "じょうこう": {
+            "name": "じょうこう",
+            "p_type": "10b",
+            "from": "愛媛",
+            "position": "GK",
+            "annual_salary": 500
+        },
+        "せきね": {
+            "name": "せきね",
+            "p_type": "10b",
+            "from": "埼玉",
+            "position": "GK",
+            "annual_salary": 150
+        },
+        "セシル": {
+            "name": "セシル",
+            "p_type": "10b",
+            "from": "",
+            "position": "GK",
+            "annual_salary": 6500
+        },
+        "せんごく": {
+            "name": "せんごく",
+            "p_type": "10b",
+            "from": "和歌山",
+            "position": "DF",
+            "annual_salary": 4200
+        },
+        "たおか": {
+            "name": "たおか",
+            "p_type": "10b",
+            "from": "徳島",
+            "position": "MF",
+            "annual_salary": 100
+        },
+        "たかやま": {
+            "name": "たかやま",
+            "p_type": "10b",
+            "from": "石川",
+            "position": "FW",
+            "annual_salary": 450
+        },
+        "たけうち": {
+            "name": "たけうち",
+            "p_type": "10b",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 1200
+        },
+        "たけだ": {
+            "name": "たけだ",
+            "p_type": "10b",
+            "from": "石川",
+            "position": "DF",
+            "annual_salary": 600
+        },
+        "たつなみ": {
+            "name": "たつなみ",
+            "p_type": "10b",
+            "from": "富山",
+            "position": "FW",
+            "annual_salary": 1500
+        },
+        "ダルマ": {
+            "name": "ダルマ",
+            "p_type": "10b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 10000
+        },
+        "ちとせ": {
+            "name": "ちとせ",
+            "p_type": "10b",
+            "from": "北海道",
+            "position": "DF",
+            "annual_salary": 50
+        },
+        "つきしま": {
+            "name": "つきしま",
+            "p_type": "10b",
+            "from": "京都",
+            "position": "DF",
+            "annual_salary": 2200
+        },
+        "つくだ": {
+            "name": "つくだ",
+            "p_type": "10b",
+            "from": "大阪",
+            "position": "MF",
+            "annual_salary": 2700
+        },
+        "つばさ": {
+            "name": "つばさ",
+            "p_type": "10b",
+            "from": "香川",
+            "position": "DF",
+            "annual_salary": 4000
+        },
+        "でぐち": {
+            "name": "でぐち",
+            "p_type": "10b",
+            "from": "三重",
+            "position": "DF",
+            "annual_salary": 3400
+        },
+        "とおちか": {
+            "name": "とおちか",
+            "p_type": "10b",
+            "from": "高知",
+            "position": "FW",
+            "annual_salary": 300
+        },
+        "とりうみ": {
+            "name": "とりうみ",
+            "p_type": "10b",
+            "from": "千葉",
+            "position": "DF",
+            "annual_salary": 200
+        },
+        "なかお": {
+            "name": "なかお",
+            "p_type": "10b",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "なとり": {
+            "name": "なとり",
+            "p_type": "10b",
+            "from": "山梨",
+            "position": "FW",
+            "annual_salary": 900
+        },
+        "なりしま": {
+            "name": "なりしま",
+            "p_type": "10b",
+            "from": "茨城",
+            "position": "MF",
+            "annual_salary": 1900
+        },
+        "にしぞの": {
+            "name": "にしぞの",
+            "p_type": "10b",
+            "from": "鹿児島",
+            "position": "MF",
+            "annual_salary": 350
+        },
+        "ニュートン": {
+            "name": "ニュートン",
+            "p_type": "10b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1200
+        },
+        "ぬくしな": {
+            "name": "ぬくしな",
+            "p_type": "10b",
+            "from": "山口",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "ノタリオ": {
+            "name": "ノタリオ",
+            "p_type": "10b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 1100
+        },
+        "バドエル": {
+            "name": "バドエル",
+            "p_type": "10b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 3000
+        },
+        "はるか": {
+            "name": "はるか",
+            "p_type": "10b",
+            "from": "石川",
+            "position": "GK",
+            "annual_salary": 650
+        },
+        "バルトロ": {
+            "name": "バルトロ",
+            "p_type": "10b",
+            "from": "",
+            "position": "DF",
+            "annual_salary": 2700
+        },
+        "ひこさか": {
+            "name": "ひこさか",
+            "p_type": "10b",
+            "from": "愛知",
+            "position": "MF",
+            "annual_salary": 5000
+        },
+        "ひながた": {
+            "name": "ひながた",
+            "p_type": "10b",
+            "from": "富山",
+            "position": "DF",
+            "annual_salary": 4000
+        },
+        "ひろすえ": {
+            "name": "ひろすえ",
+            "p_type": "10b",
+            "from": "高知",
+            "position": "DF",
+            "annual_salary": 800
+        },
+        "ふじもと": {
+            "name": "ふじもと",
+            "p_type": "10b",
+            "from": "千葉",
+            "position": "GK",
+            "annual_salary": 1500
+        },
+        "ブランコ": {
+            "name": "ブランコ",
+            "p_type": "10b",
+            "from": "",
+            "position": "MF",
+            "annual_salary": 1400
+        },
+        "ふるせ": {
+            "name": "ふるせ",
+            "p_type": "10b",
+            "from": "京都",
+            "position": "GK",
+            "annual_salary": 1000
+        },
+        "ほづみ": {
+            "name": "ほづみ",
+            "p_type": "10b",
+            "from": "福岡",
+            "position": "FW",
+            "annual_salary": 1100
+        },
+        "まつもと": {
+            "name": "まつもと",
+            "p_type": "10b",
+            "from": "埼玉",
+            "position": "DF",
+            "annual_salary": 3100
+        },
+        "まんだ": {
+            "name": "まんだ",
+            "p_type": "10b",
+            "from": "広島",
+            "position": "FW",
+            "annual_salary": 600
+        },
+        "みちもり": {
+            "name": "みちもり",
+            "p_type": "10b",
+            "from": "兵庫",
+            "position": "FW",
+            "annual_salary": 800
+        },
+        "ミッチェル": {
+            "name": "ミッチェル",
+            "p_type": "10b",
+            "from": "",
+            "position": "FW",
+            "annual_salary": 3600
+        },
+        "みながわ": {
+            "name": "みながわ",
+            "p_type": "10b",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 700
+        },
+        "みやはら": {
+            "name": "みやはら",
+            "p_type": "10b",
+            "from": "佐賀",
+            "position": "GK",
+            "annual_salary": 3500
+        },
+        "むねちか": {
+            "name": "むねちか",
+            "p_type": "10b",
+            "from": "広島",
+            "position": "GK",
+            "annual_salary": 650
+        },
+        "むらた": {
+            "name": "むらた",
+            "p_type": "10b",
+            "from": "東京",
+            "position": "GK",
+            "annual_salary": 900
+        },
+        "めがぐち": {
+            "name": "めがぐち",
+            "p_type": "10b",
+            "from": "岩手",
+            "position": "FW",
+            "annual_salary": 400
+        },
+        "よしなが": {
+            "name": "よしなが",
+            "p_type": "10b",
+            "from": "静岡",
+            "position": "GK",
+            "annual_salary": 3800
+        },
+        "よどがわ": {
+            "name": "よどがわ",
+            "p_type": "10b",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 400
+        },
+        "よねくら": {
+            "name": "よねくら",
+            "p_type": "10b",
+            "from": "佐賀",
+            "position": "MF",
+            "annual_salary": 450
+        },
+        "りょうけ": {
+            "name": "りょうけ",
+            "p_type": "10b",
+            "from": "大阪",
+            "position": "FW",
+            "annual_salary": 1600
+        },
+        "ろっかく": {
+            "name": "ろっかく",
+            "p_type": "10b",
+            "from": "福岡",
+            "position": "DF",
+            "annual_salary": 1600
+        },
+        "わぐり": {
+            "name": "わぐり",
+            "p_type": "10b",
+            "from": "新潟",
+            "position": "MF",
+            "annual_salary": 500
+        },
+        "わたなべ": {
+            "name": "わたなべ",
+            "p_type": "10b",
+            "from": "滋賀",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "アンニン": {
+            "name": "アンニン",
+            "p_type": "06a",
+            "from": "上海倶楽部",
+            "position": "DF",
+            "annual_salary": 1000
+        },
+        "チュウ": {
+            "name": "チュウ",
+            "p_type": "07b",
+            "from": "上海倶楽部",
+            "position": "FW",
+            "annual_salary": 4500
+        },
+        "テッカン": {
+            "name": "テッカン",
+            "p_type": "07b",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 3000
+        },
+        "トチュウ": {
+            "name": "トチュウ",
+            "p_type": "07b",
+            "from": "上海倶楽部",
+            "position": "GK",
+            "annual_salary": 2000
+        },
+        "カク": {
+            "name": "カク",
+            "p_type": "07c",
+            "from": "上海倶楽部",
+            "position": "FW",
+            "annual_salary": 2000
+        },
+        "ウーロン": {
+            "name": "ウーロン",
+            "p_type": "07d",
+            "from": "上海倶楽部",
+            "position": "GK",
+            "annual_salary": 5000
+        },
+        "ヤン": {
+            "name": "ヤン",
+            "p_type": "07f",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 5000
+        },
+        "オウ": {
+            "name": "オウ",
+            "p_type": "07g",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 6500
+        },
+        "カオタン": {
+            "name": "カオタン",
+            "p_type": "07g",
+            "from": "上海倶楽部",
+            "position": "DF",
+            "annual_salary": 2500
+        },
+        "ソン": {
+            "name": "ソン",
+            "p_type": "07g",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 4500
+        },
+        "リュウ": {
+            "name": "リュウ",
+            "p_type": "07h",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 6000
+        },
+        "チンタオ": {
+            "name": "チンタオ",
+            "p_type": "07i",
+            "from": "上海倶楽部",
+            "position": "DF",
+            "annual_salary": 4500
+        },
+        "チョウ": {
+            "name": "チョウ",
+            "p_type": "08a",
+            "from": "上海倶楽部",
+            "position": "MF",
+            "annual_salary": 2500
+        },
+        "テンシン": {
+            "name": "テンシン",
+            "p_type": "09b",
+            "from": "上海倶楽部",
+            "position": "DF",
+            "annual_salary": 6000
+        },
+        "ブゲン": {
+            "name": "ブゲン",
+            "p_type": "09b",
+            "from": "上海倶楽部",
+            "position": "DF",
+            "annual_salary": 4000
+        },
+        "チン": {
+            "name": "チン",
+            "p_type": "10b",
+            "from": "上海倶楽部",
+            "position": "FW",
+            "annual_salary": 4000
+        }
+    }
+}
