@@ -39,6 +39,6 @@ https://api.myjson.com/bins/1doizg
 5. Create new Pull Request
 
 ## License
-~[GPL](https://img.shields.io/badge/Licence-GPL--3.0-green.svg)
+![GPL](https://img.shields.io/badge/Licence-GPL--3.0-green.svg)
 
 
