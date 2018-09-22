@@ -1,2 +1,2 @@
-# Calciobit-JSON
-This is JSON file of "Calcio Bit A" data.
+# Calciobit-A API
+https://api.myjson.com/bins/1doizg
