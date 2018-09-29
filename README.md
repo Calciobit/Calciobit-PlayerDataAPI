@@ -6,7 +6,7 @@
 ## Usage
 ### Install
 ```sh
-git clone https://github.com/yoshi1125hisa/Calciobit-PlayerDataAPI.git
+git clone https://github.com/Calciobit/Calciobit-PlayerDataAPI.git
 cd Calciobit-PlayerDataAPI
 ```
 
